@@ -1,0 +1,105 @@
+__--__ TOPBAR PROMOTION BANNER __--__
+-> Website Operators have switch to show or hide.
+-> Background Image Changeable by Website Operators.
+-> Link change able by Website Operators.
+-> Height Changeable by Website Operators.
+-> If they want custom code so Website Operators can use this space as Custom code.
+///_-_ Database Saving Structure _-_///
+id
+image link
+Searlize detail (height, redirect link saving, custom code)
+location
+status(show hide)
+
+
+
+
+
+__--__ TOPBAR MENU AFTER PROMOTION BANNER __--__
+-> Topbar strip backgorund color can changeable by website operators.
+-> Menu text color can be changed by wesite opeartors.
+-> Menu name and linked can be changed by website operators (For Each).
+-> Menu postion can be changed by website operators (For Each).
+-> Website operators can set icon before menu if they want to set (For Each).
+-> Website opeartors have permission to open the links of menu or submenu in same tab or in new tab (For Each).
+-> If menu have sub menu so automatically arrows deploy on menu to show there is a submenu (For Each).
+-> Website operators can select how the submenu will show either by 'hover' or by 'click' (For Each).
+-> Website operators have permission to change the background color of submenu box.
+-> Webiste opeartors have permission to change the sub menu text & there links & also there positions.
+-> Website operators have Permission to change the submenu color on hover & and also on static.
+-> Website opeartors have permission if they want to use submenu box as there custom code so they can use it (For Each).
+-> Website operators have permission to change submenu box position either on right or on left (For Each).
+
+
+
+__--__  __--__
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+->
+__--__  __--__
+__--__  __--__
+__--__  __--__
+__--__  __--__
+__--__  __--__
+__--__  __--__
+__--__  __--__
+__--__  __--__
+->
